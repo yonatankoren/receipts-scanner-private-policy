@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<title>קבלות - ניהול הוצאות קליל</title>
+</head>
+
+<body style="font-family: Arial; max-width:700px; margin:auto; padding:40px">
+
+<h1>אפליקציית "קבלות"</h1>
+
+<p>
+האפליקציה מאפשרת לסרוק קבלות ולנהל הוצאות בצורה מסודרת.
+</p>
+
+<p>
+המידע נשמר ישירות ב-Google Drive וב-Google Sheets של המשתמש.
+</p>
+
+<p>
+<a href="privacy.html">מדיניות פרטיות</a>
+</p>
+
+</body>
+</html>
